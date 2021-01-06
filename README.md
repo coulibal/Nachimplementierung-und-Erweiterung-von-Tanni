@@ -17,7 +17,6 @@ Um das Programm auszuführen, werden verschiedene Dependencies in das Projekt im
 
 change .... -> 
 
-  <modelRoot contentPath="/Some/Path/" type="java_classes">
+ <modelRoot contentPath="/some/path/" type="java_classes">
       <sourceRoot location="Methoden.jar" />
     </modelRoot>
-    
