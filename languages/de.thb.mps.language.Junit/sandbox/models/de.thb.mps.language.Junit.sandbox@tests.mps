@@ -72,13 +72,5 @@
       </node>
     </node>
   </node>
-  <node concept="3kvOla" id="5jqLHSbXB__">
-    <property role="TrG5h" value="MathTest" />
-    <node concept="1naJQY" id="5jqLHSbZSqH" role="1naJGI">
-      <property role="2UcfxY" value="k" />
-      <node concept="1I8ms5" id="5jqLHSbZT8l" role="1naJFd" />
-    </node>
-    <node concept="1naJQY" id="5jqLHSbZSqJ" role="1naJGI" />
-  </node>
 </model>
 

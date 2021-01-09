@@ -26,8 +26,8 @@
   <sourcePath />
   <dependencies>
     <dependency reexport="false">6354ebe7-c22a-4a0f-ac54-50b52ab9b065(JDK)</dependency>
-    <dependency reexport="false">ae5a850e-ba76-4e7b-a659-ee8de6219557(de.thb.mps.language.Junit)</dependency>
     <dependency reexport="false">a66ca7ec-740f-4f99-95d5-11f037469f3a(de.thb.mps.language.Junit.generator)</dependency>
+    <dependency reexport="false">ae5a850e-ba76-4e7b-a659-ee8de6219557(de.thb.mps.language.Junit)</dependency>
   </dependencies>
   <languageVersions>
     <language slang="l:ae5a850e-ba76-4e7b-a659-ee8de6219557:de.thb.mps.language.Junit" version="0" />
